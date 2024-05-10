@@ -1,6 +1,7 @@
 package net.ayetherah.bams.item;
 
 import net.ayetherah.bams.BricksAndMetalSticks;
+import net.ayetherah.bams.block.ModBlocks;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
@@ -15,7 +16,7 @@ public class ModItemGroups {
             FabricItemGroup.builder().displayName(Text.translatable("itemgroup.droop"))
                     .icon(() -> new ItemStack(ModItems.DROOP)).entries((displayContext, entries) -> {
                         entries.add(ModItems.DROOP);
-
+                        entries.add(ModBlocks.FULL_GRATE);
                     }).build());
 
     public static void registerItemGroups() {
