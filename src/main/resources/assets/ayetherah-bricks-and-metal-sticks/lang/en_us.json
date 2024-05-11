@@ -1,6 +1,7 @@
 {
   "item.ayetherah-bricks-and-metal-sticks.droop": "Droop",
   "block.ayetherah-bricks-and-metal-sticks.full_grate": "Full grate",
-
-  "itemgroup.droop": "Music Disk Group"
+  "itemgroup.droop": "Music Disk Group",
+  "sounds.ayetherah-bricks-and-metal-sticks.bams_full_grate_break": "Metal Grate Rattles",
+  "sounds.ayetherah-bricks-and-metal-sticks.bams_full_grate_step": "Walking on metal grates"
 }

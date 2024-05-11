@@ -3,6 +3,7 @@ package net.ayetherah.bams;
 import net.ayetherah.bams.block.ModBlocks;
 import net.ayetherah.bams.item.ModItemGroups;
 import net.ayetherah.bams.item.ModItems;
+import net.ayetherah.bams.sound.ModSounds;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -17,6 +18,7 @@ public class BricksAndMetalSticks implements ModInitializer {
 		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+		ModSounds.registerSounds();
 		LOGGER.info("Hello Fabric world!");
 	}
 }
