@@ -7,33 +7,20 @@
       "ayetherah-bricks-and-metal-sticks:bams_full_grate_break_3",
       "ayetherah-bricks-and-metal-sticks:bams_full_grate_break_4"
     ]
+  },
+  "bams_full_grate_step": {
+    "subtitle": "sounds.ayetherah-bricks-and-metal-sticks.bams_full_grate_step",
+    "sounds": [
+      "ayetherah-bricks-and-metal-sticks:bams_full_grate_walkcycle_10rr_1",
+      "ayetherah-bricks-and-metal-sticks:bams_full_grate_walkcycle_10rr_2",
+      "ayetherah-bricks-and-metal-sticks:bams_full_grate_walkcycle_10rr_3",
+      "ayetherah-bricks-and-metal-sticks:bams_full_grate_walkcycle_10rr_4",
+      "ayetherah-bricks-and-metal-sticks:bams_full_grate_walkcycle_10rr_5",
+      "ayetherah-bricks-and-metal-sticks:bams_full_grate_walkcycle_10rr_6",
+      "ayetherah-bricks-and-metal-sticks:bams_full_grate_walkcycle_10rr_7",
+      "ayetherah-bricks-and-metal-sticks:bams_full_grate_walkcycle_10rr_8",
+      "ayetherah-bricks-and-metal-sticks:bams_full_grate_walkcycle_10rr_9",
+      "ayetherah-bricks-and-metal-sticks:bams_full_grate_walkcycle_10rr_10"
+    ]
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-//"bams_full_grate_step": {
-//"subtitle": "sounds.ayetherah-bricks-and-metal-sticks.bams_full_grate_step",
-//"sounds": [
-//"ayetherah-bricks-and-metal-sticks:bams_full_grate_walkcycle_10RR_1",
-//"ayetherah-bricks-and-metal-sticks:bams_full_grate_walkcycle_10RR_2",
-//"ayetherah-bricks-and-metal-sticks:bams_full_grate_walkcycle_10RR_3",
-//"ayetherah-bricks-and-metal-sticks:bams_full_grate_walkcycle_10RR_4",
-//"ayetherah-bricks-and-metal-sticks:bams_full_grate_walkcycle_10RR_5",
-//"ayetherah-bricks-and-metal-sticks:bams_full_grate_walkcycle_10RR_6",
-//"ayetherah-bricks-and-metal-sticks:bams_full_grate_walkcycle_10RR_7",
-//"ayetherah-bricks-and-metal-sticks:bams_full_grate_walkcycle_10RR_8",
-//"ayetherah-bricks-and-metal-sticks:bams_full_grate_walkcycle_10RR_9",
-//"ayetherah-bricks-and-metal-sticks:bams_full_grate_walkcycle_10RR_10"
-//]
-//}
