@@ -2,10 +2,10 @@
   "bams_full_grate_break": {
     "subtitle": "sounds.ayetherah-bricks-and-metal-sticks.bams_full_grate_break",
     "sounds": [
-      "ayetherah-bricks-and-metal-sticks:bams_full_grate_break_1",
-      "ayetherah-bricks-and-metal-sticks:bams_full_grate_break_2",
-      "ayetherah-bricks-and-metal-sticks:bams_full_grate_break_3",
-      "ayetherah-bricks-and-metal-sticks:bams_full_grate_break_4"
+      "ayetherah-bricks-and-metal-sticks:bams_full_grate_break_volfix_1",
+      "ayetherah-bricks-and-metal-sticks:bams_full_grate_break_volfix_2",
+      "ayetherah-bricks-and-metal-sticks:bams_full_grate_break_volfix_3",
+      "ayetherah-bricks-and-metal-sticks:bams_full_grate_break_volfix_4"
     ]
   },
   "bams_full_grate_step": {
@@ -21,6 +21,33 @@
       "ayetherah-bricks-and-metal-sticks:bams_full_grate_walkcycle_10rr_8",
       "ayetherah-bricks-and-metal-sticks:bams_full_grate_walkcycle_10rr_9",
       "ayetherah-bricks-and-metal-sticks:bams_full_grate_walkcycle_10rr_10"
+    ]
+  },
+  "bams_full_grate_place": {
+    "subtitle": "sounds.ayetherah-bricks-and-metal-sticks.bams_full_grate_place",
+    "sounds": [
+      "ayetherah-bricks-and-metal-sticks:bams_full_grate_hit_1",
+      "ayetherah-bricks-and-metal-sticks:bams_full_grate_hit_2",
+      "ayetherah-bricks-and-metal-sticks:bams_full_grate_hit_3",
+      "ayetherah-bricks-and-metal-sticks:bams_full_grate_hit_4"
+    ]
+  },
+  "bams_full_grate_hit": {
+    "subtitle": "sounds.ayetherah-bricks-and-metal-sticks.bams_full_grate_hit",
+    "sounds": [
+      "ayetherah-bricks-and-metal-sticks:bams_full_grate_hit_1",
+      "ayetherah-bricks-and-metal-sticks:bams_full_grate_hit_2",
+      "ayetherah-bricks-and-metal-sticks:bams_full_grate_hit_3",
+      "ayetherah-bricks-and-metal-sticks:bams_full_grate_hit_4"
+    ]
+  },
+  "bams_full_grate_fall": {
+    "subtitle": "sounds.ayetherah-bricks-and-metal-sticks.bams_full_grate_fall",
+    "sounds": [
+      "ayetherah-bricks-and-metal-sticks:bams_full_grate_break_volfix_1",
+      "ayetherah-bricks-and-metal-sticks:bams_full_grate_break_volfix_2",
+      "ayetherah-bricks-and-metal-sticks:bams_full_grate_break_volfix_3",
+      "ayetherah-bricks-and-metal-sticks:bams_full_grate_break_volfix_4"
     ]
   }
 }

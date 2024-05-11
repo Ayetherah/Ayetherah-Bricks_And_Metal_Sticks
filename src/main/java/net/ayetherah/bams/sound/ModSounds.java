@@ -15,7 +15,7 @@ public class ModSounds {
     public static final SoundEvent BAMS_FULL_GRATE_HIT = registerSoundEvent("bams_full_grate_hit");
     public static final SoundEvent BAMS_FULL_GRATE_FALL = registerSoundEvent("bams_full_grate_fall");
 
-    public static final BlockSoundGroup GRATE_SOUNDS = new BlockSoundGroup(1f, 1f,
+    public static final BlockSoundGroup GRATE_SOUNDS = new BlockSoundGroup(1f , 1f,
             ModSounds.BAMS_FULL_GRATE_BREAK, ModSounds.BAMS_FULL_GRATE_STEP, ModSounds.BAMS_FULL_GRATE_PLACE,
             ModSounds.BAMS_FULL_GRATE_HIT, ModSounds.BAMS_FULL_GRATE_FALL);
 
