@@ -31,14 +31,86 @@ public class ModBlocks {
     public static final Block BRICKS_TALL_WINDOW_TOP = registerBlock("bricks_tall_window_top",
             new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
 
+    public static final Block BRICKS_STRIPED = registerBlock("bricks_striped",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
 
+    public static final Block BRICKS_STEP1 = registerBlock("bricks_step1",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
 
+    public static final Block BRICKS_SMALL_BIG_CONNECTION = registerBlock("bricks_small_big_connection",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
 
+    public static final Block BRICKS_SIDEWAYS = registerBlock("bricks_sideways",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
 
+    public static final Block BRICKS_RAIL = registerBlock("bricks_rail",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
 
+    public static final Block BRICKS_PLATE = registerBlock("bricks_plate",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
 
+    public static final Block BRICKS_PIPES = registerBlock("bricks_pipes",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
 
+    public static final Block BRICKS_PATTERN3 = registerBlock("bricks_pattern3",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
 
+    public static final Block BRICKS_PATTERN2 = registerBlock("bricks_pattern2",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+
+    public static final Block BRICKS_PATTERN1 = registerBlock("bricks_pattern1",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+
+    public static final Block BRICKS_NOVEL = registerBlock("bricks_novel",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+
+    public static final Block BRICKS_GRATE_TINY = registerBlock("bricks_grate_tiny",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+
+    public static final Block BRICKS_GRATE_SMALL = registerBlock("bricks_grate_small",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+
+    public static final Block BRICKS_GRATE = registerBlock("bricks_grate",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+
+    public static final Block BRICKS_FLOOR2 = registerBlock("bricks_floor2",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+
+    public static final Block BRICKS_FLOOR1 = registerBlock("bricks_floor1",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+
+    public static final Block BRICKS_EXTENDO_EXTRA = registerBlock("bricks_extendo_extra",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+
+    public static final Block BRICKS_EXTENDO_BIG_CONNECTION = registerBlock("bricks_extendo_big_connection",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+
+    public static final Block BRICKS_EXTENDO = registerBlock("bricks_extendo",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+
+    public static final Block BRICKS_DRAIN_BOTTOM_SMALL = registerBlock("bricks_drain_bottom_small",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+
+    public static final Block BRICKS_DRAIN_BOTTOM_ME = registerBlock("bricks_drain_bottom_me",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+
+    public static final Block BRICKS_PLACEHOLDER22 = registerBlock("bricks_placeholder22",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+
+    public static final Block BRICKS_PLACEHOLDER23 = registerBlock("bricks_placeholder23",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+
+    public static final Block BRICKS_PLACEHOLDER24 = registerBlock("bricks_placeholder24",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+
+    public static final Block BRICKS_PLACEHOLDER25 = registerBlock("bricks_placeholder25",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+
+    public static final Block BRICKS_PLACEHOLDER26 = registerBlock("bricks_placeholder26",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+
+    public static final Block BRICKS_PLACEHOLDER27 = registerBlock("bricks_placeholder27",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
 
 
 

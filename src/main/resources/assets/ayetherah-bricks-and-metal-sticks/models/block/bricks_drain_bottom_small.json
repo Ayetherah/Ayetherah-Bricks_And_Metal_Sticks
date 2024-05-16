@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down": "minecraft:block/bricks",
+    "up": "minecraft:block/bricks",
+    "north": "ayetherah-bricks-and-metal-sticks:block/bricks_drain_bottom_small",
+    "east": "ayetherah-bricks-and-metal-sticks:block/bricks_drain_bottom_small",
+    "south": "ayetherah-bricks-and-metal-sticks:block/bricks_drain_bottom_small",
+    "west": "ayetherah-bricks-and-metal-sticks:block/bricks_drain_bottom_small",
+    "particles": "minecraft:block/bricks"
+  }
+}

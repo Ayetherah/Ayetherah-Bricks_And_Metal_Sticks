@@ -22,6 +22,36 @@ public class ModItemGroups {
                         entries.add(ModBlocks.BRICKS_TALL_WINDOW_BOTTOM);
                         entries.add(ModBlocks.BRICKS_TALL_WINDOW_MIDDLE);
                         entries.add(ModBlocks.BRICKS_TALL_WINDOW_TOP);
+                        entries.add(ModBlocks.BRICKS_STRIPED);
+                        entries.add(ModBlocks.BRICKS_STEP1);
+                        entries.add(ModBlocks.BRICKS_SMALL_BIG_CONNECTION);
+                        entries.add(ModBlocks.BRICKS_SIDEWAYS);
+                        entries.add(ModBlocks.BRICKS_RAIL);
+                        entries.add(ModBlocks.BRICKS_PLATE);
+                        entries.add(ModBlocks.BRICKS_PIPES);
+                        entries.add(ModBlocks.BRICKS_PATTERN3);
+                        entries.add(ModBlocks.BRICKS_PATTERN2);
+                        entries.add(ModBlocks.BRICKS_PATTERN1);
+                        entries.add(ModBlocks.BRICKS_NOVEL);
+                        entries.add(ModBlocks.BRICKS_GRATE_TINY);
+                        entries.add(ModBlocks.BRICKS_GRATE_SMALL);
+                        entries.add(ModBlocks.BRICKS_GRATE);
+                        entries.add(ModBlocks.BRICKS_FLOOR2);
+                        entries.add(ModBlocks.BRICKS_FLOOR1);
+                        entries.add(ModBlocks.BRICKS_EXTENDO_EXTRA);
+                        entries.add(ModBlocks.BRICKS_EXTENDO_BIG_CONNECTION);
+                        entries.add(ModBlocks.BRICKS_EXTENDO);
+                        entries.add(ModBlocks.BRICKS_DRAIN_BOTTOM_SMALL);
+                        entries.add(ModBlocks.BRICKS_DRAIN_BOTTOM_ME);
+                        entries.add(ModBlocks.BRICKS_PLACEHOLDER22);
+                        entries.add(ModBlocks.BRICKS_PLACEHOLDER23);
+                        entries.add(ModBlocks.BRICKS_PLACEHOLDER24);
+                        entries.add(ModBlocks.BRICKS_PLACEHOLDER25);
+                        entries.add(ModBlocks.BRICKS_PLACEHOLDER26);
+                        entries.add(ModBlocks.BRICKS_PLACEHOLDER27);
+
+
+
                         entries.add(ModBlocks.BRICKS_EXPANDED);
                         entries.add(ModBlocks.BRICKS_EXPANDED_RTT);
                         entries.add(ModBlocks.BRICKS_EXPANDED_C1);
