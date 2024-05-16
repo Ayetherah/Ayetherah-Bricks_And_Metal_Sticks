@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down": "ayetherah-bricks-and-metal-sticks:block/bricks_expanded_c1_bottom",
+    "up": "ayetherah-bricks-and-metal-sticks:block/bricks_expanded_c1_top",
+    "north": "ayetherah-bricks-and-metal-sticks:block/bricks_expanded_c1_south",
+    "east": "ayetherah-bricks-and-metal-sticks:block/bricks_expanded_c1_west",
+    "south": "ayetherah-bricks-and-metal-sticks:block/bricks_expanded_c1_north",
+    "west": "ayetherah-bricks-and-metal-sticks:block/bricks_expanded_c1_east",
+    "particles": "minecraft:block/bricks"
+  }
+}

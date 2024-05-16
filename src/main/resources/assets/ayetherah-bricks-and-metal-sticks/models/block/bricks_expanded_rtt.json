@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down": "ayetherah-bricks-and-metal-sticks:block/bricks_rtt_expanded_bottom",
+    "up": "ayetherah-bricks-and-metal-sticks:block/bricks_rtt_expanded_top",
+    "north": "ayetherah-bricks-and-metal-sticks:block/bricks_rtt_expanded_south",
+    "east": "ayetherah-bricks-and-metal-sticks:block/bricks_rtt_expanded_west",
+    "south": "ayetherah-bricks-and-metal-sticks:block/bricks_rtt_expanded_north",
+    "west": "ayetherah-bricks-and-metal-sticks:block/bricks_rtt_expanded_east",
+    "particles": "ayetherah-bricks-and-metal-sticks:block/bricks_tall_window_middle"
+  }
+}
