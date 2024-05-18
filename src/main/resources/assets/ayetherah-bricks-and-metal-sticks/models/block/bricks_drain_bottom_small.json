@@ -7,6 +7,6 @@
     "east": "ayetherah-bricks-and-metal-sticks:block/bricks_drain_bottom_small",
     "south": "ayetherah-bricks-and-metal-sticks:block/bricks_drain_bottom_small",
     "west": "ayetherah-bricks-and-metal-sticks:block/bricks_drain_bottom_small",
-    "particles": "minecraft:block/bricks"
+    "particle": "minecraft:block/bricks"
   }
 }

@@ -94,13 +94,13 @@ public class ModBlocks {
     public static final Block BRICKS_DRAIN_BOTTOM_ME = registerBlock("bricks_drain_bottom_me",
             new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
 
-    public static final Block BRICKS_PLACEHOLDER22 = registerBlock("bricks_placeholder22",
+    public static final Block BRICKS_BIG_WINDOW_SIDE2 = registerBlock("bricks_big_window_side2",
             new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
 
-    public static final Block BRICKS_PLACEHOLDER23 = registerBlock("bricks_placeholder23",
+    public static final Block BRICKS_BIG_WINDOW_SIDE = registerBlock("bricks_big_window_side",
             new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
 
-    public static final Block BRICKS_PLACEHOLDER24 = registerBlock("bricks_placeholder24",
+    public static final Block BRICKS_BIG_WINDOW_MIDDLE = registerBlock("bricks_big_window_middle",
             new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
 
     public static final Block BRICKS_PLACEHOLDER25 = registerBlock("bricks_placeholder25",
@@ -112,6 +112,17 @@ public class ModBlocks {
     public static final Block BRICKS_PLACEHOLDER27 = registerBlock("bricks_placeholder27",
             new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
 
+    public static final Block CONCRETE_BEAM = registerBlock("concrete_beam",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+
+    public static final Block CONCRETE_PLATE = registerBlock("concrete_plate",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+
+    public static final Block CONCRETE_BLOCK = registerBlock("concrete_block",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+
+    public static final Block CONCRETE_BLOCK1 = registerBlock("concrete_block1",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
 
 
 

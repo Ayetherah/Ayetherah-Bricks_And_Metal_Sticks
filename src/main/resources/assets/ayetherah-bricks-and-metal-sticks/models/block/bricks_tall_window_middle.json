@@ -7,6 +7,6 @@
     "east": "ayetherah-bricks-and-metal-sticks:block/bricks_tall_window_middle",
     "south": "ayetherah-bricks-and-metal-sticks:block/bricks_tall_window_middle",
     "west": "ayetherah-bricks-and-metal-sticks:block/bricks_tall_window_middle",
-    "particles": "minecraft:block/bricks"
+    "particle": "minecraft:block/bricks"
   }
 }

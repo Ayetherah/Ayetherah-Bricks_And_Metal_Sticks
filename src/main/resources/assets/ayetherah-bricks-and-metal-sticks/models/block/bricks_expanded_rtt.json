@@ -7,6 +7,6 @@
     "east": "ayetherah-bricks-and-metal-sticks:block/bricks_rtt_expanded_west",
     "south": "ayetherah-bricks-and-metal-sticks:block/bricks_rtt_expanded_north",
     "west": "ayetherah-bricks-and-metal-sticks:block/bricks_rtt_expanded_east",
-    "particles": "ayetherah-bricks-and-metal-sticks:block/bricks_tall_window_middle"
+    "particle": "ayetherah-bricks-and-metal-sticks:block/bricks_tall_window_middle"
   }
 }

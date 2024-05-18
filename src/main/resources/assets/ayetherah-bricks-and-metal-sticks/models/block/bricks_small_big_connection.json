@@ -7,6 +7,6 @@
     "east": "ayetherah-bricks-and-metal-sticks:block/bricks_small_big_connection",
     "south": "ayetherah-bricks-and-metal-sticks:block/bricks_small_big_connection",
     "west": "ayetherah-bricks-and-metal-sticks:block/bricks_small_big_connection",
-    "particles": "minecraft:block/bricks"
+    "particle": "minecraft:block/bricks"
   }
 }

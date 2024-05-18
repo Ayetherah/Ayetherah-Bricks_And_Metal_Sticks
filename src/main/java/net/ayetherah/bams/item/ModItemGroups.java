@@ -43,13 +43,16 @@ public class ModItemGroups {
                         entries.add(ModBlocks.BRICKS_EXTENDO);
                         entries.add(ModBlocks.BRICKS_DRAIN_BOTTOM_SMALL);
                         entries.add(ModBlocks.BRICKS_DRAIN_BOTTOM_ME);
-                        entries.add(ModBlocks.BRICKS_PLACEHOLDER22);
-                        entries.add(ModBlocks.BRICKS_PLACEHOLDER23);
-                        entries.add(ModBlocks.BRICKS_PLACEHOLDER24);
+                        entries.add(ModBlocks.BRICKS_BIG_WINDOW_SIDE2);
+                        entries.add(ModBlocks.BRICKS_BIG_WINDOW_SIDE);
+                        entries.add(ModBlocks.BRICKS_BIG_WINDOW_MIDDLE);
                         entries.add(ModBlocks.BRICKS_PLACEHOLDER25);
                         entries.add(ModBlocks.BRICKS_PLACEHOLDER26);
                         entries.add(ModBlocks.BRICKS_PLACEHOLDER27);
-
+                        entries.add(ModBlocks.CONCRETE_BEAM);
+                        entries.add(ModBlocks.CONCRETE_PLATE);
+                        entries.add(ModBlocks.CONCRETE_BLOCK);
+                        entries.add(ModBlocks.CONCRETE_BLOCK1);
 
 
                         entries.add(ModBlocks.BRICKS_EXPANDED);
