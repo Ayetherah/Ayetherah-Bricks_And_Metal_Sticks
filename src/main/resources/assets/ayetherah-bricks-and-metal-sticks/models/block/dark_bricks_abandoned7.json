@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ayetherah-bricks-and-metal-sticks:block/dark_bricks_abandoned7"
+  }
+}

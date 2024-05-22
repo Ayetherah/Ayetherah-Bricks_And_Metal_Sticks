@@ -13,6 +13,8 @@ import net.minecraft.util.Identifier;
 
 public class ModBlocks {
 
+    //vanilla bricks
+
     public static final Block FULL_GRATE = registerBlock("full_grate",
             new Block(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK).sounds(ModSounds.GRATE_SOUNDS)));
 
@@ -44,7 +46,7 @@ public class ModBlocks {
             new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
 
     public static final Block BRICKS_RAIL = registerBlock("bricks_rail",
-            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+            new Block(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK)));
 
     public static final Block BRICKS_PLATE = registerBlock("bricks_plate",
             new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
@@ -103,16 +105,21 @@ public class ModBlocks {
     public static final Block BRICKS_BIG_WINDOW_MIDDLE = registerBlock("bricks_big_window_middle",
             new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
 
-    public static final Block BRICKS_PLACEHOLDER25 = registerBlock("bricks_placeholder25",
+    public static final Block BRICKS_BIG_SMALL_CONNECTION = registerBlock("bricks_big_small_connection",
             new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
 
-    public static final Block BRICKS_PLACEHOLDER26 = registerBlock("bricks_placeholder26",
+    public static final Block BRICKS_BIG = registerBlock("bricks_big",
             new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
 
-    public static final Block BRICKS_PLACEHOLDER27 = registerBlock("bricks_placeholder27",
+    public static final Block BRICKS_ARCH1 = registerBlock("bricks_arch1",
             new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+
+    //concrete
 
     public static final Block CONCRETE_BEAM = registerBlock("concrete_beam",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+
+    public static final Block CONCRETE_BEAM_SIDE = registerBlock("concrete_beam_side",
             new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
 
     public static final Block CONCRETE_PLATE = registerBlock("concrete_plate",
@@ -123,6 +130,130 @@ public class ModBlocks {
 
     public static final Block CONCRETE_BLOCK1 = registerBlock("concrete_block1",
             new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+
+    public static final Block BRICK_MORTAR_FLOOR = registerBlock("brick_mortar_floor",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+
+    //rust
+
+    public static final Block BEAM_RUSTED_VERTICAL = registerBlock("beam_rusted_vertical",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+
+
+
+
+
+    //dark bricks
+
+    public static final Block DARK_BRICKS = registerBlock("dark_bricks",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+    public static final Block DARK_BRICKS_ABANDONED1 = registerBlock("dark_bricks_abandoned1",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+    public static final Block DARK_BRICKS_ABANDONED2 = registerBlock("dark_bricks_abandoned2",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+    public static final Block DARK_BRICKS_ABANDONED3 = registerBlock("dark_bricks_abandoned3",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+    public static final Block DARK_BRICKS_ABANDONED4 = registerBlock("dark_bricks_abandoned4",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+    public static final Block DARK_BRICKS_ABANDONED5 = registerBlock("dark_bricks_abandoned5",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+    public static final Block DARK_BRICKS_ABANDONED6 = registerBlock("dark_bricks_abandoned6",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+    public static final Block DARK_BRICKS_ABANDONED7 = registerBlock("dark_bricks_abandoned7",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+    public static final Block DARK_BRICKS_BIG = registerBlock("dark_bricks_big",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+    public static final Block DARK_BRICKS_SLABLIKE = registerBlock("dark_bricks_slablike",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+    public static final Block DARK_BRICKS_STRIPED = registerBlock("dark_bricks_striped",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+    public static final Block DARK_BRICKS_TILE = registerBlock("dark_bricks_tile",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+    public static final Block DARK_BRICKS_TILY = registerBlock("dark_bricks_tily",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+    public static final Block DARK_BRICKS_ABANDONED8 = registerBlock("dark_bricks_abandoned8",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+    public static final Block DARK_BRICKS_OVERGROWN = registerBlock("dark_bricks_overgrown",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+    public static final Block DARK_BRICKS_SLABLIKE_ABANDONED = registerBlock("dark_bricks_slablike_abandoned",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+    public static final Block DARK_BRICKS_TOP_ARCH = registerBlock("dark_bricks_top_arch",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+    public static final Block DARK_BRICKS_TOP_ARCH_ABANDONED = registerBlock("dark_bricks_top_arch_abandoned",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+    public static final Block DARK_BRICKS_BIG_ABANDONED = registerBlock("dark_bricks_big_abandoned",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+    public static final Block DARK_BRICKS19 = registerBlock("dark_bricks19",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+    public static final Block DARK_BRICKS20 = registerBlock("dark_bricks20",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+    public static final Block DARK_BRICKS21 = registerBlock("dark_bricks21",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+    public static final Block DARK_BRICKS22 = registerBlock("dark_bricks22",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+    public static final Block DARK_BRICKS23 = registerBlock("dark_bricks23",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+    public static final Block DARK_BRICKS24 = registerBlock("dark_bricks24",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+    public static final Block DARK_BRICKS25 = registerBlock("dark_bricks25",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+    public static final Block DARK_BRICKS26 = registerBlock("dark_bricks26",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+    public static final Block DARK_BRICKS27 = registerBlock("dark_bricks27",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+    public static final Block DARK_BRICKS28 = registerBlock("dark_bricks28",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+    public static final Block DARK_BRICKS29 = registerBlock("dark_bricks29",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+    public static final Block DARK_BRICKS30 = registerBlock("dark_bricks30",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+
+
+
+
+
+
+
+
+
+
+
+
+    //darkest bricks
+
+    public static final Block DARKEST_BRICKS = registerBlock("darkest_bricks",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

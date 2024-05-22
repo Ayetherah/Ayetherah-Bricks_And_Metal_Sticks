@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down": "ayetherah-bricks-and-metal-sticks:block/dark_bricks",
+    "up": "ayetherah-bricks-and-metal-sticks:block/dark_bricks_slablike_top",
+    "north": "ayetherah-bricks-and-metal-sticks:block/dark_bricks_slablike",
+    "east": "ayetherah-bricks-and-metal-sticks:block/dark_bricks_slablike",
+    "south": "ayetherah-bricks-and-metal-sticks:block/dark_bricks_slablike",
+    "west": "ayetherah-bricks-and-metal-sticks:block/dark_bricks_slablike",
+    "particle": "ayetherah-bricks-and-metal-sticks:block/dark_bricks_slablike_top"
+  }
+}

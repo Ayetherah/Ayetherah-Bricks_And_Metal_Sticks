@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down": "ayetherah-bricks-and-metal-sticks:block/concrete_beam",
+    "up": "ayetherah-bricks-and-metal-sticks:block/concrete_beam",
+    "north": "ayetherah-bricks-and-metal-sticks:block/concrete_beam_front",
+    "east": "ayetherah-bricks-and-metal-sticks:block/concrete_beam",
+    "south": "ayetherah-bricks-and-metal-sticks:block/concrete_beam_front",
+    "west": "ayetherah-bricks-and-metal-sticks:block/concrete_beam",
+    "particle": "ayetherah-bricks-and-metal-sticks:block/concrete_beam"
+  }
+}

@@ -7,6 +7,6 @@
     "east": "ayetherah-bricks-and-metal-sticks:block/bricks_step1",
     "south": "ayetherah-bricks-and-metal-sticks:block/bricks_step1",
     "west": "ayetherah-bricks-and-metal-sticks:block/bricks_step1",
-    "particle": "minecraft:block/bricks"
+    "particle": "ayetherah-bricks-and-metal-sticks:block/bricks_step1_top"
   }
 }

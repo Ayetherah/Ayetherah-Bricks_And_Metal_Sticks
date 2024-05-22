@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down": "ayetherah-bricks-and-metal-sticks:block/dark_bricks_slablike_top_abandoned",
+    "up": "ayetherah-bricks-and-metal-sticks:block/dark_bricks_abandoned7",
+    "north": "ayetherah-bricks-and-metal-sticks:block/dark_bricks_top_arch_abandoned",
+    "east": "ayetherah-bricks-and-metal-sticks:block/dark_bricks_top_arch_abandoned",
+    "south": "ayetherah-bricks-and-metal-sticks:block/dark_bricks_top_arch_abandoned",
+    "west": "ayetherah-bricks-and-metal-sticks:block/dark_bricks_top_arch_abandoned",
+    "particle": "ayetherah-bricks-and-metal-sticks:block/dark_bricks_slablike_top_abandoned"
+  }
+}

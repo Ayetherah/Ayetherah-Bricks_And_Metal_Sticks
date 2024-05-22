@@ -7,6 +7,6 @@
     "east": "ayetherah-bricks-and-metal-sticks:block/concrete_beam_front_mid",
     "south": "ayetherah-bricks-and-metal-sticks:block/concrete_plate_mid",
     "west": "ayetherah-bricks-and-metal-sticks:block/concrete_beam_front_mid",
-    "particle": "minecraft:block/bricks"
+    "particle": "ayetherah-bricks-and-metal-sticks:block/concrete_plate_mid"
   }
 }
