@@ -225,10 +225,22 @@ public class ModBlocks {
             new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
 
 
+    //tile
+
+    public static final Block TILE_YELLOWED = registerBlock("tile_yellowed",
+            new Block(FabricBlockSettings.copyOf(Blocks.BRICKS)));
 
 
+    //overgrown
 
+    public static final Block OVERGROWN_METAL = registerBlock("overgrown_metal",
+            new Block(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK)));
 
+    public static final Block OVERGROWN_WALL = registerBlock("overgrown_wall",
+            new Block(FabricBlockSettings.copyOf(Blocks.BLACKSTONE)));
+
+    public static final Block OVERGROWN_METAL_TILES = registerBlock("overgrown_metal_tiles",
+            new Block(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK)));
 
 
 

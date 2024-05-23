@@ -104,8 +104,12 @@ public class ModItemGroups {
                         entries.add(ModBlocks.DARKEST_BRICKS);
 
 
+                        entries.add(ModBlocks.TILE_YELLOWED);
 
 
+                        entries.add(ModBlocks.OVERGROWN_METAL);
+                        entries.add(ModBlocks.OVERGROWN_METAL_TILES);
+                        entries.add(ModBlocks.OVERGROWN_WALL);
 
 
 

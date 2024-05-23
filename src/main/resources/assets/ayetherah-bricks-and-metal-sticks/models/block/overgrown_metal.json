@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down": "ayetherah-bricks-and-metal-sticks:block/overgrown_metal",
+    "up": "ayetherah-bricks-and-metal-sticks:block/overgrown_metal",
+    "north": "ayetherah-bricks-and-metal-sticks:block/overgrown_metal_side",
+    "east": "ayetherah-bricks-and-metal-sticks:block/overgrown_metal_side",
+    "south": "ayetherah-bricks-and-metal-sticks:block/overgrown_metal_side",
+    "west": "ayetherah-bricks-and-metal-sticks:block/overgrown_metal_side",
+    "particle": "ayetherah-bricks-and-metal-sticks:block/overgrown_metal"
+  }
+}
