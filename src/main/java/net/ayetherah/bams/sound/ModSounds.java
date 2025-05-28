@@ -3,6 +3,7 @@ package net.ayetherah.bams.sound;
 import net.ayetherah.bams.BricksAndMetalSticks;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
+import net.minecraft.registry.RegistryKey;
 import net.minecraft.sound.BlockSoundGroup;
 import net.minecraft.sound.SoundEvent;
 import net.minecraft.util.Identifier;
@@ -14,6 +15,9 @@ public class ModSounds {
     public static final SoundEvent BAMS_FULL_GRATE_PLACE = registerSoundEvent("bams_full_grate_place");
     public static final SoundEvent BAMS_FULL_GRATE_HIT = registerSoundEvent("bams_full_grate_hit");
     public static final SoundEvent BAMS_FULL_GRATE_FALL = registerSoundEvent("bams_full_grate_fall");
+
+    public static final SoundEvent BAMS_DROOP = registerSoundEvent("bams_droop");
+
 
     public static final BlockSoundGroup GRATE_SOUNDS = new BlockSoundGroup(1f, 1f,
             ModSounds.BAMS_FULL_GRATE_BREAK, ModSounds.BAMS_FULL_GRATE_STEP, ModSounds.BAMS_FULL_GRATE_PLACE,

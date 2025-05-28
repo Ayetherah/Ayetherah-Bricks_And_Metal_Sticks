@@ -49,5 +49,13 @@
       "ayetherah-bricks-and-metal-sticks:bams_full_grate_break_volfix_3",
       "ayetherah-bricks-and-metal-sticks:bams_full_grate_break_volfix_4"
     ]
+  },
+  "bams_droop": {
+    "sounds": [
+      {
+        "name": "ayetherah-bricks-and-metal-sticks:bams_droop",
+        "stream": true
+      }
+    ]
   }
 }

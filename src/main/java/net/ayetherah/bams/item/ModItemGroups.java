@@ -14,8 +14,7 @@ public class ModItemGroups {
     public static final ItemGroup DROOP_GROUP = Registry.register(Registries.ITEM_GROUP,
             new Identifier(BricksAndMetalSticks.MOD_ID, "droop"),
             FabricItemGroup.builder().displayName(Text.translatable("itemgroup.droop"))
-                    .icon(() -> new ItemStack(ModItems.DROOP)).entries((displayContext, entries) -> {
-                        entries.add(ModItems.DROOP);
+                    .icon(() -> new ItemStack(ModBlocks.FULL_GRATE)).entries((displayContext, entries) -> {
                         entries.add(ModBlocks.FULL_GRATE);
                         entries.add(ModBlocks.BRICKS_TILE);
                         entries.add(ModBlocks.BRICKS_THAT_IS_NOT_HOW_BRICKS_WORK);
@@ -65,9 +64,6 @@ public class ModItemGroups {
 
 
 
-
-
-
                         entries.add(ModBlocks.DARK_BRICKS);
                         entries.add(ModBlocks.DARK_BRICKS_ABANDONED1);
                         entries.add(ModBlocks.DARK_BRICKS_ABANDONED2);
@@ -110,14 +106,6 @@ public class ModItemGroups {
                         entries.add(ModBlocks.OVERGROWN_METAL);
                         entries.add(ModBlocks.OVERGROWN_METAL_TILES);
                         entries.add(ModBlocks.OVERGROWN_WALL);
-
-
-
-
-
-
-
-
 
 
 

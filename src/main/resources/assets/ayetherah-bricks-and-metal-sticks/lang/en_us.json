@@ -5,7 +5,10 @@
   "block.ayetherah-bricks-and-metal-sticks.bricks_tile": "Bricks Tile",
   "block.ayetherah-bricks-and-metal-sticks.bricks_that_is_not_how_bricks_work": "Bricks That Is Not How Bricks Work",
 
-  "itemgroup.droop": "Music Disk Group",
+  "itemgroup.droop": "Bricks And Metal Sticks",
+
+  "item.ayetherah-bricks-and-metal-sticks.bams_droop_music_disc": "Music Disc",
+  "item.ayetherah-bricks-and-metal-sticks.bams_droop_music_disc.desc": "Ayetherah - Droop",
 
   "sounds.ayetherah-bricks-and-metal-sticks.bams_full_grate_break": "Metal Grate Rattles",
   "sounds.ayetherah-bricks-and-metal-sticks.bams_full_grate_step": "Walking on metal grates"
