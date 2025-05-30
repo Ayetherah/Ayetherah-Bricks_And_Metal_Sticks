@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "ayetherah-bricks-and-metal-sticks:bricks_grate_small"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "ayetherah-bricks-and-metal-sticks:bricks_grate_tiny"
+  }
+}
