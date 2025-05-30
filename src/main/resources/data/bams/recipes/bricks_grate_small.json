@@ -3,19 +3,19 @@
   "category": "building",
   "pattern": [
     "###",
-    "#B#",
+    "#G#",
     "###"
   ],
   "key": {
     "#": {
-      "item": "minecraft:iron_ingot"
+      "item": "minecraft:bricks"
     },
-    "B": {
-      "item": "minecraft:iron_bars"
+    "G": {
+      "item": "ayetherah-bricks-and-metal-sticks:full_grate"
     }
   },
   "result": {
     "count": 8,
-    "id": "ayetherah-bricks-and-metal-sticks:full_grate"
+    "id": "ayetherah-bricks-and-metal-sticks:bricks_grate_small"
   }
 }
